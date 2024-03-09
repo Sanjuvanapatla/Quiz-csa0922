@@ -1,0 +1,10 @@
+Steps to access the Source code -
+
+Download the EasyQuiz.zip file
+Navigate to Downloads folder in your PC (where the zip file has been downloaded.)
+Extract the .zip file to your desired folder.
+Open IntelliJ IDEA
+Click on Open Project
+Choose your extracted folder (Name of the folder: EasyQuiz)
+Click on Open.
+
